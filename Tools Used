@@ -1,0 +1,60 @@
+🧰 Tools and Technologies Used
+
+The development of the AI-powered Travel Planner Agent leveraged a powerful combination of AI models, cloud infrastructure, and natural language processing tools provided by IBM. Below is a detailed breakdown of the tools and technologies used:
+
+
+---
+
+1. IBM Cloud Lite Services
+
+A free-tier offering from IBM that allows developers to build, test, and deploy applications on the cloud. It provided access to AI services, storage, and serverless computing during the internship.
+
+
+---
+
+2. IBM Watsonx AI Studio
+
+A collaborative environment for building, training, and evaluating machine learning and foundation models. It enabled the creation of customized AI workflows using:
+
+Prompt engineering
+
+Dataset integration
+
+Model testing with ease
+
+
+Role in the project:
+Used to design and test the Travel Planner Agent’s prompts and AI behaviors.
+
+
+---
+
+3. IBM Watsonx AI Runtime
+
+The runtime environment responsible for deploying and scaling AI models efficiently on the IBM Cloud. It ensures smooth execution and scalability of the deployed travel agent application.
+
+Role in the project:
+Allowed real-time interaction with users, and executed responses from the trained AI agent.
+
+
+---
+
+4. IBM Cloud Agent Lab
+
+A powerful tool for simulating and hosting AI-based virtual agents. It allows integration of AI models with dialog systems and user interface elements.
+
+Role in the project:
+Helped in building the user-agent interaction platform for travel-related queries and actions.
+
+
+---
+
+5. IBM Granite Foundation Model
+
+Granite is IBM’s family of large foundation models optimized for enterprise use. These models were fine-tuned for natural language tasks including text generation, classification, and conversation flow.
+
+Role in the project:
+Enabled the core natural language understanding (NLU) and generation (NLG) capabilities of the travel assistant.
+
+
+---
